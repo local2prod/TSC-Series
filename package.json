@@ -16,5 +16,14 @@
   },
   "devDependencies": {
     "@types/node": "^20.8.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devs2prod/TSC-Series.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/devs2prod/TSC-Series/issues"
+  },
+  "homepage": "https://github.com/devs2prod/TSC-Series#readme"
 }
